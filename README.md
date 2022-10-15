@@ -4,6 +4,6 @@ This is Panacloud Bootcamp Practice Repo
 
 In this bootcamp we will learn Web 3.0
 
-##Extensions For VSCODE
+## Extensions For VSCODE
 - Prettier 
 - Live Server
